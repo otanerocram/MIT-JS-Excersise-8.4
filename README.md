@@ -1,27 +1,25 @@
 # Eye Movement Assignment
 ![GitHub code size](https://img.shields.io/github/repo-size/otanerocram/MIT-JS-Excersise-8.4)
-![GitHub repo stars](https://img.shields.io/github/stars/otanerocram/MIT-JS-Excersise-8.4?style=social)
-![GitHub repo forks](https://img.shields.io/github/forks/otanerocram/MIT-JS-Excersise-8.4?style=social)
+![GitHub repo stars](https://img.shields.io/github/stars/otanerocram/MIT-JS-Excersise-8.4)
+![GitHub repo forks](https://img.shields.io/github/forks/otanerocram/MIT-JS-Excersise-8.4)
 
 ## Description: 
-Implementation of multiple Pacmans within the DOM by means of the `makePac` function triggered by the `Add Pacmen` button and then bounced within the DOM window by pressing the `Start Game` button
+Eyes that follow mouse movement. In the starter code for this activity, the mouse movement event is used to update the position of the "eye" element displayed on the page. You can walk through the code to see how this all works.
 
 ### See in Action
-[Live Demo!](https://otanerocram.github.io/MIT-JS-Excersise-7.2/index.html)
+[Live Demo!](https://otanerocram.github.io/MIT-JS-Excersise-8.4/index.html)
 
 ## Installation: 
 Just download code and copy to your public_html Apache web server. No installation is required.
 
 ## Usage: 
 Once you have index.html opened in your browser
-- Click the "Add PacMan" button, a new pacman should appear at a random position on the screen. 
-- Click the "Start Game" button, the pacman or pacmen created should start moving at random velocity on the screen. 
-- When a given pacman hits the edge of the screen, it should change position to stay within the frame of the web page.
+- Move your mouse around window and watch how the eyeball track the pointer
 
 ## Roadmap: 
 > In the next realease:
-> - It would play sounds when bounces at the edge. 
-> - Make multi color pacmen when function `makePac` fires
+> - Implementing a funny frog face 
+> - Make it sounds like a frog when mouse is between both eyes.
 
 ## License information: 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
